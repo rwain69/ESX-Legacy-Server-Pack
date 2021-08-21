@@ -13,7 +13,7 @@ Full ESX Server File - ESX Legacy
 5. Run your server
 
 # SUPPORT
-No Support will be given to this Repository
+DM me on Discord
 
 # DISCORD
 rainier#0001
